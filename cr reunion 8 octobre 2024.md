@@ -24,7 +24,8 @@ in_menu: true
 	Plusieurs idées avec par exemple la participation au téléthon, la participation à des actions organisées par les autres APE (carnaval...), une soirée années 80, des ateliers 1ers secours etc...
 
 ## Rôle des parents d'élèves élus et d'une association de parents d'élèves (APE).
->**Objectif principal commun** : **défendre les intérêts communs des parents d’élèves**. Il s’agit à la fois de leurs intérêts moraux (sécurité des enfants, égalité de leur traitement au quotidien…) et de leurs intérêts matériels (coût des repas scolaires, entretien des locaux…).[Articles D. 111-6 à D. 111-9 du code de l'éducation](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182458/)
+>**Objectif principal commun** : **défendre les intérêts communs des parents d’élèves**. Il s’agit à la fois de leurs intérêts moraux (sécurité des enfants, égalité de leur traitement au quotidien…) et de leurs intérêts matériels (coût des repas scolaires, entretien des locaux…).[Articles D. 111-6 à D. 111-9 du code de l'éducation]
+(https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182458/)
 
 ### Points communs entre PE élus et Asso
 ​- Représentation et médiation
@@ -50,7 +51,7 @@ Actuellement Mme Lambrescht gère le budget des différentes actions avec une OC
 > Reconnue d'utilité publique et agréée au titre des associations complémentaires de l'école par le ministère de l'Education nationale.
 > 
 > L'Office Central de la Coopération à l'Ecole (OCCE) a été créé en 1928, sous l'impulsion de membres de l'enseignement et de militants de la coopération, adultes convaincus de la nécessité d'enseigner, dès l'école, les principes et les vertus de la coopération que l'on retrouve dans le fonctionnement de l'économie sociale et solidaire.
-> https://www.calameo.com/occe/read/00150983705f3f9cb1554?page=1
+> [Lettre destinée aux parents explications OCCE](https://www.calameo.com/occe/read/00150983705f3f9cb1554?page=1)
 
 L'argent récolté pendant les actions (marché de noël, fête des écoles...) est reversé directement à la coopérative scolaire.
 Les achats et remboursements sont directement gérés par la coopérative scolaire (Mme Lambrescht)
