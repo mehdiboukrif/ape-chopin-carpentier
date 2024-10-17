@@ -24,8 +24,8 @@ in_menu: true
 	Plusieurs idées avec par exemple la participation au téléthon, la participation à des actions organisées par les autres APE (carnaval...), une soirée années 80, des ateliers 1ers secours etc...
 
 ## Rôle des parents d'élèves élus et d'une association de parents d'élèves (APE).
->**Objectif principal commun** : **défendre les intérêts communs des parents d’élèves**. Il s’agit à la fois de leurs intérêts moraux (sécurité des enfants, égalité de leur traitement au quotidien…) et de leurs intérêts matériels (coût des repas scolaires, entretien des locaux…).[Articles D. 111-6 à D. 111-9 du code de l'éducation]
-(https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182458/)
+>**Objectif principal commun** : **défendre les intérêts communs des parents d’élèves**. Il s’agit à la fois de leurs intérêts moraux (sécurité des enfants, égalité de leur traitement au quotidien…) et de leurs intérêts matériels (coût des repas scolaires, entretien des locaux…).
+[Articles D. 111-6 à D. 111-9 du code de l'éducation](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182458/)
 
 ### Points communs entre PE élus et Asso
 ​- Représentation et médiation
