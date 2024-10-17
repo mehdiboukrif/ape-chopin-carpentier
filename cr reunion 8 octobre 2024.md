@@ -3,7 +3,6 @@ title: "CR Réunion 8 octobre 2024"
 order: 4
 in_menu: true
 ---
-# CR réunion création APE 8 octobre 2024
 ​Réunion à 18h30 côté primaire R+2 avec environ 15 pers dont 2 nouveaux parents d'élèves.
 
 ## Ordre du jour
@@ -29,7 +28,7 @@ in_menu: true
 
 ### Points communs entre PE élus et Asso
 ​- Représentation et médiation
-	- Les parents d'élève élus et les associations de parents d'élèves ont un rôle d'information et de lien entre l'école " la communauté éducative", et les autres parents d'élèves.
+- Les parents d'élève élus et les associations de parents d'élèves ont un rôle d'information et de lien entre l'école " la communauté éducative", et les autres parents d'élèves.
  
 Les parents d'élèves élus et les APE peuvent organiser des actions sans lien direct avec la formation ou l'éducation (fêtes, loisirs etc) l'école si ils ont l'autorisation de la mairie.
 
@@ -40,8 +39,10 @@ Une APE dispose de moyens dans l'école et prévus dans la loi pour informer les
 - **Un local** pour tenir les réunions d’information, mis à sa disposition de manière temporaire ou permanente,
 - **La liste des parents d’élèves**, incluant leurs noms et coordonnées pour pouvoir les contacter.
 
-Une APE possède une existence juridique avec a minima un président et un trésorier ce qui permet d'organiser plus facilement des actions dans l'école et en dehors. De récolter de l'argent en tenant un budget indépendant avec le compte bancaire de l'association.
-Permet de bénéficier de subventions municipales et d'une salle.
+Une APE possède une existence juridique ce qui permet d'organiser plus facilement des actions dans l'école et en dehors :
+- Récolter de l'argent en tenant un budget indépendant avec le compte bancaire de l'association.
+- Bénéficier de subventions municipales et d'une salle.
+
 ### Précisions sur le fonctionnement actuel et échanges
 
 Actuellement Mme Lambrescht gère le budget des différentes actions avec une OCCE.
@@ -71,15 +72,15 @@ Le dépôt des statuts peux se faire rapidement. Pas de grosses difficultés a p
 
 ### Organisation et rôle de chacun
 1. En premier lieu nous devons rédiger les statuts et les faire signer par minimum 2 membres fondateurs. 
-2. Plusieurs modèles de statuts qu'il est possible de récupérer. 
-    Activer nos contacts d'autres ape (Julie? Seb?...)
+2. Il y a plusieurs modèles de statuts qu'il est possible de récupérer. 
+    **Activer nos contacts d'autres ape (Julie? Seb?...)**
    >Faire une prochaine réunion de travail sur les statuts. 
-3. Après dépot des statuts il faudra convoquer une assemblé générale pour élire le bureau (président(e), trésorier(e) et secrétaire)
+3. Après dépôt des statuts il faudra convoquer une assemblée générale pour élire le bureau (président(e), trésorier(e) et secrétaire)
 
 Voir aussi pour le côté président/vice président etc pour le bureau.
-- Alexandre plutôt vice tresorier
-- Nathalie et Daniela tresoriere
-- Maxime et Mehdi presidence ou autre en fonction des places à pourvoir.
+- Alexandre plutôt vice trésorier
+- Nathalie et Daniela trésorière
+- Maxime et Mehdi présidence ou autre en fonction des places à pourvoir.
 Sylvain?
 Autres?
 
@@ -88,9 +89,9 @@ Autres?
 ### Outils pour s'organiser
 
 Quel outils? 
-- Voir hello asso déjà utilisé (Nathalie et Maxime) et tres bien pour les événements (billets etc)
+- Voir hello asso déjà utilisé (Nathalie et Maxime) et très bien pour les événements (billets etc)
 - Voir outils partage de docs pour création statuts et compte rendus.
 
 ## Prochaines étapes 
 >Réunion/atelier de travail sur les statuts.
-  - Caler une date et prévoir de rencontrer Seb et Julie en même temps. 
+  - Caler une date et prévoir de rencontrer Seb et Julie (par exemple) en même temps. 
